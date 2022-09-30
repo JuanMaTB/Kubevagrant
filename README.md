@@ -11,16 +11,15 @@ This is a compilation resources for Ubuntu that is deploying:
  The goal is to have a fully operational machine to work with docker and kubernetes
 
 
-# Requirements
-    * Virtualbox
-    * Vagrant
+# Requirements:
+You will need for deployment [Virtualbox](https://www.virtualbox.org/wiki/Downloads) & [Vagrant](https://www.vagrantup.com/downloads) (in this order)
     
     
 # Orchestration
-
-  1- Open your terminal on this repository
-  2- type: Vagrant up
-  3- type: Vagrant ssh
-  4- Enjoi
+Download this repository and type:
+    * Vagrant up
+    * Vagrant ssh
+  
+# Enjoi!
 
 

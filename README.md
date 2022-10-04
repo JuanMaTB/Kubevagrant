@@ -17,8 +17,9 @@ You will need for deployment [Virtualbox](https://www.virtualbox.org/wiki/Downlo
     
 # Orchestration
 Download this repository and type:
-    * Vagrant up
-    * Vagrant ssh
+    ```Vagrant up```
+    
+    *```Vagrant ssh```
   
 # Enjoi!
 
